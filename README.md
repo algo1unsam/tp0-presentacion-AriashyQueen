@@ -12,7 +12,7 @@ Ya saben usar git!
 
 ## Estudiante: Camila Piraneo
 
-Descripción
+
 
 Hola a todos! Soy Camila, tengo 23 años. Soy acuariana y amo a los gatos ^-^
 Vengo de Ingeniería Biomédica. Llegué al 4to año de carrera y de repente entré en crisis existencial. Ahí me di cuenta que me gustaba más la programación y decidí cambiarme Jajajaja. Por suerte ya vi bastante de programación en la ingeniería así que esto no es demasiado nuevo para mi. Lo que sí no había visto nada orientado a objetos, ni usé Git, así que en ese aspecto es mi primera vez. También estoy haciendo esta carrera para complementar mi formación reciente como Diseñadora UX/UI. Mi idea es complementar y orientar mis conocimientos al diseño de apps y páginas web.
